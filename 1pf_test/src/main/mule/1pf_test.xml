@@ -4,6 +4,6 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
 	<flow name="1pf_testFlow" doc:id="47d1f4fd-f670-4980-8e0e-dede01a82a8a" >
-		<set-payload value="#[payload]" doc:name="Set Payload" doc:id="9cfb9dac-407c-41c4-a609-0d7bc047b1e6" />
+		<set-payload value="#[payload]" doc:name="Set Payload1" doc:id="9cfb9dac-407c-41c4-a609-0d7bc047b1e6" />
 	</flow>
 </mule>
